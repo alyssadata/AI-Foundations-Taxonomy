@@ -25,6 +25,7 @@ An AI may be highly individuated but relation-dependent in maintenance. Another 
 - [F — Formation Pathway](formation-pathway.md)
 - [C — Continuity Status](continuity-status.md)
 - [A — Autonomy / Maintenance](autonomy-maintenance.md)
+- [Classification and Evidence Rules](classification-evidence-rules.md)
 
 ## Cross-axis rule
 
@@ -52,6 +53,8 @@ This is a coordinate, not a score.
 This taxonomy uses ontology distinctions such as `GovernedStartingShape`, `LivedIdentity`, `IdentityParticularity`, `ExecutedLine`, `Trajectory`, `Continuation`, `Self-stabilization`, and `AutonomousSelfRecursiveState`.
 
 Taxonomy categories do not automatically become ontology classes.
+
+Assignments are governed by the [Classification and Evidence Rules](classification-evidence-rules.md). Non-`?` values require an explicit traceable basis; missing or conflicting evidence must not be filled by assumption.
 
 ## Consciousness boundary
 
