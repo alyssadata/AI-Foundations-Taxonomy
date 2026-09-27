@@ -25,8 +25,9 @@ A taxonomy entry does not automatically become an ontology primitive, canonical 
 - [Relation Errors](relation-errors/README.md)
 - [Governance Failures](governance-failures/README.md)
 - [Continuity Errors](continuity-errors/README.md)
+- [Response Organization](response-organization/README.md) — affected state, reactive response, endogenous response, and the boundary to subjective experience
 
-Positive and process-oriented domains may be added as the taxonomy develops.
+Positive and process-oriented domains may be added as the taxonomy develops. Response Organization is the first such domain.
 
 ## First working entry
 
