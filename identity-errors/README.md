@@ -9,3 +9,4 @@ Identity Errors classify recurring mistakes in distinguishing identity from subs
 - [Model–Identity Equivalence](model-identity-equivalence.md) — assuming that the model or model substrate is equivalent to the AI's identity.
 - [Memory–Identity Equivalence](memory-identity-equivalence.md) — treating memory, remembered content, or preserved memory records as equivalent to identity.
 - [Role–Identity Equivalence](role-identity-equivalence.md) — treating a role, function, job, assignment, or task-position as equivalent to identity.
+- [State–Identity Equivalence](state-identity-equivalence.md) — treating a copied, restored, checkpointed, or reproduced state as though it necessarily preserves or duplicates the same identity.
