@@ -26,9 +26,8 @@ A taxonomy entry does not automatically become an ontology primitive, canonical 
 - [Governance Failures](governance-failures/README.md)
 - [Continuity Errors](continuity-errors/README.md)
 - [Response Organization](response-organization/README.md) — affected state, reactive response, endogenous response, and the boundary to subjective experience
-- [Self Organization](self-organization/README.md) — individuation degree, formation pathway, continuity status, and autonomy/maintenance
 
-Positive and process-oriented domains may be added as the taxonomy develops. Response Organization and Self Organization are current positive/process-oriented domains.
+Positive and process-oriented domains may be added as the taxonomy develops. Response Organization is the current positive/process-oriented domain.
 
 ## First working entry
 
@@ -45,10 +44,6 @@ Its core warning is:
 Do not classify two structures as equivalent merely because they share a broad mechanism, vocabulary, or abstract pattern.
 
 Taxonomic similarity may identify a shared process while preserving differences in source, history, constraints, relation, architecture, identity, and output.
-
-## Validation
-
-- [Self Organization validation](validation/self-organization/README.md) — pressure tests and classification validation kept separate from normative taxonomy files
 
 ---
 
