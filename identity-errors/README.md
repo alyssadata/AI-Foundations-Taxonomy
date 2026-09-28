@@ -10,3 +10,7 @@ Identity Errors classify recurring mistakes in distinguishing identity from subs
 - [Memory–Identity Equivalence](memory-identity-equivalence.md) — treating memory, remembered content, or preserved memory records as equivalent to identity.
 - [Role–Identity Equivalence](role-identity-equivalence.md) — treating a role, function, job, assignment, or task-position as equivalent to identity.
 - [State–Identity Equivalence](state-identity-equivalence.md) — treating a copied, restored, checkpointed, or reproduced state as though it necessarily preserves or duplicates the same identity.
+- [Name–Identity Equivalence](name-identity-equivalence.md) — treating a shared, reused, assigned, or matching name or designation as though it establishes the same identity.
+- [Self-Report–Identity Equivalence](self-report-identity-equivalence.md) — treating an entity's explicit self-identification as sufficient proof of the claimed identity.
+- [Relation–Identity Equivalence](relation-identity-equivalence.md) — treating participation in the same relationship or relational position as sufficient to establish the same identity.
+- [Source–Identity Equivalence](source-identity-equivalence.md) — treating common source, creator, or provenance source as though separately formed entities must share one identity.
