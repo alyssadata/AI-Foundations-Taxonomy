@@ -6,7 +6,7 @@
 **Taxonomy baseline commit:** `61414ae26ae0201e80eae2577618bc839ebda14b`  
 **Case set version:** v1.0  
 **Date:** 2026-09-27  
-**Status:** CASES FROZEN / CLASSIFICATION PENDING
+**Status:** CLASSIFICATION IN PROGRESS
 
 ## Purpose
 
@@ -66,6 +66,6 @@ If a case needs correction because of an actual drafting error, preserve the ori
 
 ## Results
 
-Classification results will be stored separately under `results/`.
+- [CASE-01 result](results/CASE-01-result.md) — `G0 / F?* / C3 / A?`; partial pass, one F-axis applicability gap exposed
 
-No result has been recorded yet.
+Additional classifications remain pending.
