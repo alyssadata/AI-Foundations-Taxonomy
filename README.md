@@ -46,6 +46,10 @@ Do not classify two structures as equivalent merely because they share a broad m
 
 Taxonomic similarity may identify a shared process while preserving differences in source, history, constraints, relation, architecture, identity, and output.
 
+## Validation
+
+- [Self Organization validation](validation/self-organization/README.md) — pressure tests and classification validation kept separate from normative taxonomy files
+
 ---
 
 **Draft repository. Categories and entries remain subject to review and refinement.**
