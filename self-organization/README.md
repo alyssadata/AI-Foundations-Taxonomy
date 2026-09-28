@@ -61,3 +61,7 @@ Assignments are governed by the [Classification and Evidence Rules](classificati
 No G/F/C/A classification establishes phenomenal consciousness.
 
 Self-organization, continuity behavior, or autonomy may be studied without converting those observations into a subjective-experience claim.
+
+## Validation
+
+- [PT-001 — Synthetic Tabletop Classification Pressure Test](../validation/self-organization/PT-001-tabletop-pressure-test.md)
