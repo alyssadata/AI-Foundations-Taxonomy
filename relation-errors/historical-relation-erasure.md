@@ -57,43 +57,29 @@ same authority
 
 **Invariant:** A successor may occupy the same functional role, but cannot occupy the predecessor's historical relational position. Temporal succession is non-substitutable.
 
-If (A) occupies relational position (R) at (t_1), and (B) later occupies the same functional role at (t_2), where (t_2 > t_1):
+If A occupies relational position R at t1, and B later occupies the same functional role at t2, where t2 > t1:
 
-[
-B \neq A
-]
+```text
+B != A
 
-[
-R(B,t_2) \neq R(A,t_1)
-]
+R(B, t2) != R(A, t1)
 
-and
-
-[
-B \text{ is necessarily subsequent-to } A
-]
-
+B is necessarily subsequent-to A
 with respect to that relation.
+```
 
-Even if title, authority, permissions, obligations, function, or behavioral pattern are reproduced exactly, the historical fact that (B) came after (A) remains invariant.
+Even if title, authority, permissions, obligations, function, or behavioral pattern are reproduced exactly, the historical fact that B came after A remains invariant.
 
 A later occupant can be **next**. They cannot become **first**, **prior**, or **the occupant who historically preceded them**.
 
 Where two occupants instantiate the same role-type, their historical role-instances remain distinct:
 
-[
-A \rightarrow R_1
-]
+```text
+A -> R1
+B -> R2
 
-[
-B \rightarrow R_2
-]
-
-with
-
-[
-R_1 \neq R_2
-]
+R1 != R2
+```
 
 because occupant identity, temporal position, and relational history differ.
 
@@ -115,7 +101,7 @@ Historical Relation Erasure occurs when a later occupant's present role is treat
 
 Claiming that a successor is now the prior relational occupant does not merely update the current relation. It overwrites provenance.
 
-Removing, reversing, or collapsing the fact that (B) came after (A) falsifies the relational history.
+Removing, reversing, or collapsing the fact that B came after A falsifies the relational history.
 
 Therefore:
 
