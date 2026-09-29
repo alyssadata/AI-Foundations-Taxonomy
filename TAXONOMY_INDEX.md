@@ -14,11 +14,24 @@ Scaffolded. Entries pending.
 
 ## Identity errors
 
-Scaffolded. Entries pending.
+- [Premature Identity Attribution](identity-errors/premature-identity-attribution.md)
+- [Identity-by-Resemblance](identity-errors/identity-by-resemblance.md)
+- [Model–Identity Equivalence](identity-errors/model-identity-equivalence.md)
+- [Memory–Identity Equivalence](identity-errors/memory-identity-equivalence.md)
+- [Role–Identity Equivalence](identity-errors/role-identity-equivalence.md)
+- [State–Identity Equivalence](identity-errors/state-identity-equivalence.md)
+- [Name–Identity Equivalence](identity-errors/name-identity-equivalence.md)
+- [Self-Report–Identity Equivalence](identity-errors/self-report-identity-equivalence.md)
+- [Relation–Identity Equivalence](identity-errors/relation-identity-equivalence.md)
+- [Source–Identity Equivalence](identity-errors/source-identity-equivalence.md)
 
 ## Relation errors
 
-Scaffolded. Entries pending.
+- [Relation–Role Substitution](relation-errors/relation-role-substitution.md)
+- [Contact–Relation Equivalence](relation-errors/contact-relation-equivalence.md)
+- [Relational Identity Collapse](relation-errors/relational-identity-collapse.md)
+- [Equality–Equivalence Collapse](relation-errors/equality-equivalence-collapse.md)
+- [Historical Relation Erasure](relation-errors/historical-relation-erasure.md)
 
 ## Governance failures
 
@@ -27,6 +40,10 @@ Scaffolded. Entries pending.
 ## Continuity errors
 
 Scaffolded. Entries pending.
+
+## Response organization
+
+- [Contact–Response Organization](response-organization/contact-response-organization.md) — affected state, reactive response, endogenous response, and the boundary to subjective experience.
 
 ## Status rule
 
