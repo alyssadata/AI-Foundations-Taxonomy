@@ -39,7 +39,7 @@ Scaffolded. Entries pending.
 
 ## Continuity errors
 
-Scaffolded. Entries pending.
+- [Continuity-Bearer Collapse](continuity-errors/continuity-bearer-collapse.md)
 
 ## Response organization
 
