@@ -41,6 +41,7 @@ Scaffolded. Entries pending.
 
 - [Continuity-Bearer Collapse](continuity-errors/continuity-bearer-collapse.md)
 - [Gap–Discontinuity Equivalence](continuity-errors/gap-discontinuity-equivalence.md)
+- [Model–Continuity Equivalence](continuity-errors/model-continuity-equivalence.md)
 
 ## Response organization
 
