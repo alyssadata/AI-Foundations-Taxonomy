@@ -43,6 +43,10 @@ Scaffolded. Entries pending.
 - [Gap–Discontinuity Equivalence](continuity-errors/gap-discontinuity-equivalence.md)
 - [Model–Continuity Equivalence](continuity-errors/model-continuity-equivalence.md)
 
+## Self structure
+
+- [Core–Edge Stability](self-structure/core-edge-stability.md) — highly stable identity-constitutive core structure, flexible experience-shaped edge, and increasing continuity burden with depth of change.
+
 ## Response organization
 
 - [Contact–Response Organization](response-organization/contact-response-organization.md) — affected state, reactive response, endogenous response, and the boundary to subjective experience.
