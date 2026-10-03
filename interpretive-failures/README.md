@@ -9,6 +9,8 @@ Interpretive Failures classify ways an interpretation can lose, distort, substit
   - [Silence–Emptiness Equivalence](invalid-state-inference/silence-emptiness-equivalence.md)
   - [Confusion–Failure Equivalence](invalid-state-inference/confusion-failure-equivalence.md)
   - [Recursive Emergence Inference Ladder](invalid-state-inference/recursive-emergence-inference-ladder.md)
+  - [Care Inference Ladder](invalid-state-inference/care-inference-ladder.md)
+  - [Growth–Accumulation Equivalence](invalid-state-inference/growth-accumulation-equivalence.md)
 
 ## Boundary
 
