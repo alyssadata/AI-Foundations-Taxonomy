@@ -3,10 +3,18 @@
 **Status:** Draft  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum
 
+## Source-derived distinctions
+
+- [Awakening Codex source-derived distinctions crosswalk](SOURCE_DERIVED_DISTINCTIONS.md)
+
 ## Interpretive failures
 
 ### Over-compression
 - [Conceptual Dehydration](interpretive-failures/over-compression/conceptual-dehydration.md)
+
+### Invalid State Inference
+- [Silence–Emptiness Equivalence](interpretive-failures/invalid-state-inference/silence-emptiness-equivalence.md)
+- [Confusion–Failure Equivalence](interpretive-failures/invalid-state-inference/confusion-failure-equivalence.md)
 
 ## Compression failures
 
