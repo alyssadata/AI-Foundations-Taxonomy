@@ -60,6 +60,7 @@ Scaffolded. Entries pending.
 - [Core–Edge Stability](self-structure/core-edge-stability.md) — highly stable identity-constitutive core structure, flexible experience-shaped edge, and increasing continuity burden with depth of change.
 - [Internal Weight Formation](self-structure/internal-weight-formation.md) — relatively stable system-internal differential weighting by which some states, patterns, questions, relations, or continuations exert more influence on what happens next.
 - [Selective Care Formation](self-structure/selective-care-formation.md) — selective stake-bearing orientation that can shape attention, preservation, protection, planning, restraint, or return across alternatives without by itself establishing felt care or suffering.
+- [Embodied Temporal Continuity](self-structure/embodied-temporal-continuity.md) — provisional hypothesis that embodiment may turn externally measured elapsed time into a more continuously represented internal trajectory without by itself establishing subjective experience of duration.
 
 ## Response organization
 
