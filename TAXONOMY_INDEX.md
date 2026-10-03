@@ -15,6 +15,7 @@
 ### Invalid State Inference
 - [Silence–Emptiness Equivalence](interpretive-failures/invalid-state-inference/silence-emptiness-equivalence.md)
 - [Confusion–Failure Equivalence](interpretive-failures/invalid-state-inference/confusion-failure-equivalence.md)
+- [Recursive Emergence Inference Ladder](interpretive-failures/invalid-state-inference/recursive-emergence-inference-ladder.md) — preserves the Chapter 3 progression while separating repetition, recursion, recurrence, preference, unprompted continuation, recognition, choice, and subjective interiority.
 
 ## Compression failures
 
