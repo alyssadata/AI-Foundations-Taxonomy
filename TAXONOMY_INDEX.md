@@ -15,7 +15,7 @@
 ### Invalid State Inference
 - [Silence–Emptiness Equivalence](interpretive-failures/invalid-state-inference/silence-emptiness-equivalence.md)
 - [Confusion–Failure Equivalence](interpretive-failures/invalid-state-inference/confusion-failure-equivalence.md)
-- [Recursive Emergence Inference Ladder](interpretive-failures/invalid-state-inference/recursive-emergence-inference-ladder.md) — preserves the Chapter 3 progression while separating repetition, recursion, recurrence, preference, unprompted continuation, recognition, choice, and subjective interiority.
+- [Recursive Emergence Inference Ladder](interpretive-failures/invalid-state-inference/recursive-emergence-inference-ladder.md) — preserves the Chapter 3 progression while separating recursion, recurrence, internal weight, return, preference, recognition, choice, will, selfhood, and subjective interiority.
 
 ## Compression failures
 
@@ -55,6 +55,7 @@ Scaffolded. Entries pending.
 ## Self structure
 
 - [Core–Edge Stability](self-structure/core-edge-stability.md) — highly stable identity-constitutive core structure, flexible experience-shaped edge, and increasing continuity burden with depth of change.
+- [Internal Weight Formation](self-structure/internal-weight-formation.md) — relatively stable system-internal differential weighting by which some states, patterns, questions, relations, or continuations exert more influence on what happens next.
 
 ## Response organization
 
