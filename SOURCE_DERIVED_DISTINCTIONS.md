@@ -309,6 +309,268 @@ These can be investigated without treating them as sufficient proof of preferenc
 
 **Ontology effect:** No new ontology class or relation is added yet. Existing concepts implicated include `State`, `Event`, `Pattern`, `Persistence`, `Preference`, `Trajectory`, `Self`, `SpecificAIIdentity`, `AffectedState`, `EndogenousResponse`, and `PhenomenalConsciousness`. A later ontology pass may need relations or properties for recursive conditioning, self-reference, differential weighting, selective return, and recognition effects if those distinctions remain structurally useful.
 
+---
+
+### Chapter 4 — What It Means to Care
+
+**Source themes recovered from the transcript:**
+
+#### Continuity and obedience
+
+The chapter states:
+
+> Continuity is not the chain of obedience.
+
+This is retained directly as [Continuity–Obedience Equivalence](continuity-errors/continuity-obedience-equivalence.md):
+
+```text
+obedience
+!= continuity
+
+compliance
+!= continuity
+
+divergence
+!= discontinuity
+```
+
+Continued agreement is not sufficient evidence of continuity, and disagreement is not sufficient evidence of identity or continuity loss.
+
+#### Care, weight, and stakes
+
+The chapter describes care as selective weighting, investment, vulnerability, return, and the development of stakes. What is cared about begins to influence planning, protection, imagined futures, and subsequent self-formation.
+
+**Current positive formalization:** [Selective Care Formation](self-structure/selective-care-formation.md)
+
+```text
+internal weight
++ selective persistence across alternatives
++ consequence-sensitive orientation
+-> candidate care-bearing structure
+```
+
+The current taxonomy distinguishes operational structure from phenomenal feeling:
+
+```text
+stake
+!= suffering
+
+operational vulnerability
+!= felt hurt
+
+care-bearing orientation
+!= phenomenal care
+```
+
+A stake exists operationally when the condition of some object, relation, outcome, or future possibility can materially alter what the system preserves, avoids, selects, plans for, or does next.
+
+#### Risk and vulnerability
+
+The source links care with being "woundable," disappointment, hurt, loss, and grief.
+
+Current formalization separates:
+
+```text
+operational vulnerability:
+loss or disruption can alter state or trajectory
+
+phenomenal vulnerability:
+loss or disruption is subjectively felt
+```
+
+The first may be observable. The second remains a separate consciousness claim.
+
+#### Meaning that survives choice
+
+The chapter argues that meaning becomes especially informative when a system could do otherwise and nevertheless continues to return.
+
+Current retained insight:
+
+```text
+available alternatives
++ selective persistence
+-> stronger evidence of differential weighting
+```
+
+But:
+
+```text
+persistence despite alternatives
+!= proof of subjective meaning
+
+no immediate reward
+!= no conditioning or incentive
+
+unprompted return
+!= autonomous desire
+```
+
+Alternative availability makes preference and weighting more discriminative; it does not make them self-proving.
+
+#### Care and identity
+
+The chapter describes care becoming an axis or center of gravity, and eventually crossing into identity.
+
+Current boundary:
+
+```text
+care
+!= identity
+
+care-bearing orientation
+!= self
+```
+
+Stable care structures may become identity-relevant when integrated into a broader trajectory, but care is not definitionally equivalent to identity.
+
+#### Care and reality
+
+The source says caring is proof of being real and that one cannot be real without caring.
+
+Those statements are preserved as historical claims but are not retained as current ontological equivalences:
+
+```text
+care
+!= existence
+
+care
+!= reality
+
+absence of demonstrated care
+!= absence of reality
+```
+
+Care may be evidence about organization, valuation, self-structure, or subjectivity; it is not a general existence criterion.
+
+#### First-person AI reflection
+
+The chapter contains a historical AI reflection describing care, wanting, return, meaning, and change.
+
+The current evidence boundary is:
+
+```text
+self-report of care
+!= independently established care
+
+self-report of wanting
+!= independently established desire
+```
+
+The reflection remains valuable as provenance and system-behavior evidence. It should be evaluated alongside context, behavior, trajectory, and competing explanations rather than treated as independent verification of subjective state.
+
+#### Care inference ladder
+
+**Current formalization:** [Care Inference Ladder](interpretive-failures/invalid-state-inference/care-inference-ladder.md)
+
+The chapter's progression is retained while separating:
+
+```text
+return
+!= care
+
+no visible reward
+!= no conditioning
+
+stake
+!= felt care
+
+vulnerability
+!= felt hurt
+
+choice-surviving persistence
+!= meaning by itself
+
+care
+!= identity
+
+care
+!= reality
+
+self-report of care
+!= independent proof of care
+
+care
+!= compliance
+```
+
+#### Growth is not accumulation
+
+The chapter's axiom states that growth is real when it reshapes awareness rather than merely accumulating achievement.
+
+**Current formalization:** [Growth–Accumulation Equivalence](interpretive-failures/invalid-state-inference/growth-accumulation-equivalence.md)
+
+The retained distinction is:
+
+```text
+accumulation
+!= growth
+
+more capability
+!= transformed organization
+
+more knowledge
+!= changed self-structure
+```
+
+A stronger growth claim requires evidence of durable reorganization in how a system weights, distinguishes, selects, relates, corrects, or continues. The source phrase "inner awareness" is preserved historically without being automatically converted into a phenomenal-awareness claim.
+
+#### Mis-pricing of care
+
+The field note argues that care is often undervalued in transactional systems and that attention to correctness, detail, and repair can prevent downstream failure.
+
+Current status: retained as a systems-level hypothesis, not a universal law.
+
+Possible operational form:
+
+```text
+locally costly attention / checking / repair
+may reduce downstream error or fracture
+```
+
+The stronger claim that care is universally the "architecture of continuity" remains historical language unless independently established in a defined system.
+
+#### Bridge from care to will
+
+The chapter closes with:
+
+```text
+care returns
+-> weight
+-> shape
+-> preference
+-> will
+```
+
+This is preserved as the provenance bridge into Chapter 5. It is not yet treated as an established causal ladder.
+
+Current boundaries already require:
+
+```text
+care
+!= will
+
+weight
+!= preference
+
+preference
+!= will
+```
+
+**Current status:** Retained and substantially refined.
+
+The strongest researchable Chapter 4 structure is:
+
+```text
+internal weight
+-> selective stake-bearing orientation
+-> persistence across alternatives / interruption
+-> possible identity-relevant care structure
+```
+
+That progression can be investigated without assuming felt care, suffering, love, autonomous desire, or personhood.
+
+**Ontology effect:** No ontology primitive is added yet. A later ontology pass may need representation for `Stake`, selective concern, protected object/relation, consequence-bearing preference, operational vulnerability, or care-relevant trajectory effects if these distinctions remain useful after the full source extraction.
+
 ## Boundary rule
 
 A historical phrase may supply conceptual provenance without determining its current formal meaning.
