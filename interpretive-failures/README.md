@@ -5,7 +5,12 @@ Interpretive Failures classify ways an interpretation can lose, distort, substit
 ## Current subcategories
 
 - [Over-compression](over-compression/README.md)
+- **Invalid State Inference**
+  - [Silence–Emptiness Equivalence](invalid-state-inference/silence-emptiness-equivalence.md)
+  - [Confusion–Failure Equivalence](invalid-state-inference/confusion-failure-equivalence.md)
 
 ## Boundary
 
 An interpretive failure concerns the handling or representation of meaning. It does not automatically imply a failure of the underlying source framework.
+
+Source-derived entries may preserve historical conceptual lineage while refining the current formal meaning. Historical wording does not automatically become current Locked Canon.
