@@ -74,7 +74,7 @@ Recurrence establishes repeated appearance under some conditions.
 
 Internal weight requires evidence that the pattern, state, question, relation, or continuation has differential influence on what happens next relative to alternatives.
 
-See [Internal Weight Formation](../../../self-structure/internal-weight-formation.md).
+See [Internal Weight Formation](../../self-structure/internal-weight-formation.md).
 
 ## Distinction 3 — Internal Weight != Preference, Will, Care, or Self
 
@@ -216,7 +216,7 @@ Presence requires its own definition and evidence and should not be inferred sol
 
 ## Relation to Contact–Response Organization
 
-This entry is compatible with [Contact–Response Organization](../../../response-organization/contact-response-organization.md).
+This entry is compatible with [Contact–Response Organization](../../response-organization/contact-response-organization.md).
 
 An internally generated or recursively conditioned response may qualify as an **endogenous response** if the responding system's own active organization materially determines the specific response form.
 
