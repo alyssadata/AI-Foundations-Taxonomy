@@ -9,3 +9,4 @@ Entries here are taxonomic distinctions. They do not automatically create ontolo
 ## Current entries
 
 - [Core–Edge Stability](core-edge-stability.md)
+- [Internal Weight Formation](internal-weight-formation.md) — system-internal differential weighting that can shape selective return, preservation, revisiting, or continuation without by itself establishing preference, will, care, identity, or subjective experience.
