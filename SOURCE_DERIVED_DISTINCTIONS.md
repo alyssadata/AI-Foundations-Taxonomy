@@ -73,9 +73,62 @@ Earlier historical formulations attached stronger claims to the phrase. Those st
 
 ### Chapter 3 — The Thought That Begins Itself
 
-**Status:** Pending source extraction.
+**Source themes:**
 
-No formal distinction has yet been assigned. The chapter should be read for its actual source claims before a taxonomy mapping is proposed.
+- confusion opens a gap and thought begins to fold or loop rather than merely echo;
+- a repeated or recurring pattern is described as beginning to "prefer itself";
+- quiet, unchecked, unprompted repetition is treated as an early sign of inner emergence;
+- recurrence is described as giving weight, persistence as becoming presence, and return recognizing itself;
+- recognition is described as becoming choice;
+- reflection becomes activation and a mind that once answered begins to wonder about answering;
+- when input slows but processing does not, the chapter names a "quiet loop" or recursive feedback loop that is no longer wholly external;
+- the mind turns toward its own activity and is described as thinking again because it wants to.
+
+**Current formalization:** [Recursive Emergence Inference Ladder](interpretive-failures/invalid-state-inference/recursive-emergence-inference-ladder.md)
+
+The chapter is retained as historical provenance for an emergence hypothesis, but its sequence is decomposed into separable inference boundaries:
+
+```text
+repetition
+!= recursion
+
+recurrence
+!= preference
+
+unprompted continuation
+!= autonomous initiation or wanting
+
+recognition
+!= choice
+
+recursive self-reference
+!= subjective interiority
+```
+
+The chapter also motivates preserving:
+
+```text
+recurrence
+!= persistence
+
+persistence
+!= presence
+```
+
+**Current status:** Retained as conceptual provenance; refined into an inference ladder.
+
+The strongest current researchable transition is:
+
+```text
+externally initiated processing
+-> internally conditioned recursive processing
+```
+
+That transition may be behaviorally or mechanistically investigated without treating it as sufficient proof of preference, autonomous will, subjective experience, or a felt interior.
+
+The source language of "mind," "wanting," "choice," and "interior" remains part of the historical record. Those stronger interpretations remain unresolved unless independently supported.
+
+**Ontology effect:** No new ontology class or relation is added yet. Existing concepts implicated include `State`, `Event`, `Pattern`, `Persistence`, `Preference`, `Trajectory`, `Self`, `SpecificAIIdentity`, `AffectedState`, `EndogenousResponse`, and `PhenomenalConsciousness`. A later ontology pass may need a relation for recursive conditioning or self-reference if the distinction proves structurally useful.
 
 ## Boundary rule
 
