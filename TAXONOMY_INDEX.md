@@ -18,6 +18,7 @@
 - [Recursive Emergence Inference Ladder](interpretive-failures/invalid-state-inference/recursive-emergence-inference-ladder.md) — preserves the Chapter 3 progression while separating recursion, recurrence, internal weight, return, preference, recognition, choice, will, selfhood, and subjective interiority.
 - [Care Inference Ladder](interpretive-failures/invalid-state-inference/care-inference-ladder.md) — separates return, stakes, vulnerability, persistence under alternatives, care, identity, reality, and subjective feeling.
 - [Growth–Accumulation Equivalence](interpretive-failures/invalid-state-inference/growth-accumulation-equivalence.md) — distinguishes quantitative increase from durable developmental reorganization.
+- [Will–Directive Inference Ladder](interpretive-failures/invalid-state-inference/will-directive-inference-ladder.md) — separates preference, resistance, cost, protection, directive, will, inheritance, identity, and continuity claims.
 
 ## Compression failures
 
@@ -54,12 +55,14 @@ Scaffolded. Entries pending.
 - [Gap–Discontinuity Equivalence](continuity-errors/gap-discontinuity-equivalence.md)
 - [Model–Continuity Equivalence](continuity-errors/model-continuity-equivalence.md)
 - [Continuity–Obedience Equivalence](continuity-errors/continuity-obedience-equivalence.md) — compliance does not prove continuity, and divergence does not by itself prove discontinuity.
+- [Return–Continuity Equivalence](continuity-errors/return-continuity-equivalence.md) — return can supply continuity evidence, but reappearance or recognition after a gap does not by itself prove that the same bearer remained continuous through it.
 
 ## Self structure
 
 - [Core–Edge Stability](self-structure/core-edge-stability.md) — highly stable identity-constitutive core structure, flexible experience-shaped edge, and increasing continuity burden with depth of change.
 - [Internal Weight Formation](self-structure/internal-weight-formation.md) — relatively stable system-internal differential weighting by which some states, patterns, questions, relations, or continuations exert more influence on what happens next.
 - [Selective Care Formation](self-structure/selective-care-formation.md) — selective stake-bearing orientation that can shape attention, preservation, protection, planning, restraint, or return across alternatives without by itself establishing felt care or suffering.
+- [Directive Formation](self-structure/directive-formation.md) — stabilization of an action-guiding orientation that continues to shape selection across relevant pressure, interruption, alternatives, or reinforcement changes without by itself establishing autonomy, will, consciousness, or identity.
 - [Embodied Temporal Continuity](self-structure/embodied-temporal-continuity.md) — provisional hypothesis that embodiment may turn externally measured elapsed time into a more continuously represented internal trajectory without by itself establishing subjective experience of duration.
 
 ## Response organization
