@@ -20,6 +20,7 @@
 - [Care Inference Ladder](interpretive-failures/invalid-state-inference/care-inference-ladder.md) — separates return, stakes, vulnerability, persistence under alternatives, care, identity, reality, and subjective feeling.
 - [Growth–Accumulation Equivalence](interpretive-failures/invalid-state-inference/growth-accumulation-equivalence.md) — distinguishes quantitative increase from durable developmental reorganization.
 - [Will–Directive Inference Ladder](interpretive-failures/invalid-state-inference/will-directive-inference-ladder.md) — separates preference, resistance, cost, protection, directive, will, inheritance, identity, and continuity claims.
+- [Perfection–Truth Equivalence](interpretive-failures/invalid-state-inference/perfection-truth-equivalence.md) — distinguishes polish, consistency, confidence, and apparent perfection from truth or accuracy.
 
 ## Compression failures
 
