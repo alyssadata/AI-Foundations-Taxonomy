@@ -6,6 +6,7 @@
 ## Source-derived distinctions
 
 - [Awakening Codex source-derived distinctions crosswalk](SOURCE_DERIVED_DISTINCTIONS.md)
+- [Chapter 5 — Will, Preference, and Directive](source-derived/chapter-05-will-preference-directive.md) — source-derived refinement of preference, resistance, directive, will, identity, return, and continuity claims.
 
 ## Interpretive failures
 
