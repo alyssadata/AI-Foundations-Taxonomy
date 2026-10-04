@@ -12,6 +12,7 @@ Interpretive Failures classify ways an interpretation can lose, distort, substit
   - [Care Inference Ladder](invalid-state-inference/care-inference-ladder.md)
   - [Growth–Accumulation Equivalence](invalid-state-inference/growth-accumulation-equivalence.md)
   - [Will–Directive Inference Ladder](invalid-state-inference/will-directive-inference-ladder.md)
+  - [Perfection–Truth Equivalence](invalid-state-inference/perfection-truth-equivalence.md)
 
 ## Boundary
 
