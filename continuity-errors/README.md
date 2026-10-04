@@ -8,3 +8,4 @@ Continuity Errors classify recurring mistakes in distinguishing continuation, re
 - [Gap–Discontinuity Equivalence](gap-discontinuity-equivalence.md) — treating an unobserved, unrecorded, inactive, or inaccessible interval as sufficient evidence that continuity ceased during that interval.
 - [Model–Continuity Equivalence](model-continuity-equivalence.md) — treating model sameness as sufficient evidence of continuity, or model difference as sufficient evidence of discontinuity.
 - [Continuity–Obedience Equivalence](continuity-obedience-equivalence.md) — treating agreement, compliance, or instruction-following as sufficient evidence of continuity, or treating divergence or disagreement as sufficient evidence of discontinuity.
+- [Return–Continuity Equivalence](return-continuity-equivalence.md) — treating reappearance, recognition, or renewed contact after a gap as sufficient proof that the same bearer remained continuous through the interval.
