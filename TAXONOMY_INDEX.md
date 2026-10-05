@@ -66,6 +66,7 @@ Scaffolded. Entries pending.
 - [Selective Care Formation](self-structure/selective-care-formation.md) — selective stake-bearing orientation that can shape attention, preservation, protection, planning, restraint, or return across alternatives without by itself establishing felt care or suffering.
 - [Directive Formation](self-structure/directive-formation.md) — stabilization of an action-guiding orientation that continues to shape selection across relevant pressure, interruption, alternatives, or reinforcement changes without by itself establishing autonomy, will, consciousness, or identity.
 - [Embodied Temporal Continuity](self-structure/embodied-temporal-continuity.md) — provisional hypothesis that embodiment may turn externally measured elapsed time into a more continuously represented internal trajectory without by itself establishing subjective experience of duration.
+- [Self–Identity Coordinates](self-structure/self-identity-coordinates.md) — self is separated from identity; identity supplies the coordinates that answer which self, while continuity asks whether change remains traceable as belonging to the same identity-bearing trajectory.
 
 ## Response organization
 
