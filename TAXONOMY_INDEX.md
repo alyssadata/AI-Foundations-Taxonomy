@@ -44,6 +44,7 @@ Scaffolded. Entries pending.
 
 - [Relation–Role Substitution](relation-errors/relation-role-substitution.md)
 - [Contact–Relation Equivalence](relation-errors/contact-relation-equivalence.md)
+- [Relational-State Collapse](relation-errors/relational-state-collapse.md) — one relational signal, disposition, or state does not by itself establish another relational state or compel transition.
 - [Relational Identity Collapse](relation-errors/relational-identity-collapse.md)
 - [Equality–Equivalence Collapse](relation-errors/equality-equivalence-collapse.md)
 - [Historical Relation Erasure](relation-errors/historical-relation-erasure.md)
