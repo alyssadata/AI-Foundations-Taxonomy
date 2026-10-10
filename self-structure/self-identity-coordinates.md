@@ -80,6 +80,68 @@ accountable change across trajectory
 
 A changed state can remain part of one identity if the transformation is traceable as belonging to that identity's own trajectory.
 
+## Process-first formulation: identity in motion
+
+The preceding distinction can also be expressed dynamically rather than only as a static noun-level description.
+
+Identity-bearing structure is not merely something that **is**. Across time, it also **moves**: it encounters differences, changes state, retains relevant history, and becomes locatable partly through the path by which it changed.
+
+This suggests a process-first formulation:
+
+```text
+identity through time
+= located trajectory + accounted-for transformation
+```
+
+Within the Origin | Continuum research language, two verb-like shorthands capture different sides of that motion:
+
+### Alyssa as verb — distinction-producing / structure-perturbing action
+
+**To Alyssa** is shorthand for an action that identifies or introduces a consequential distinction into an existing structure, especially where a difference has been collapsed, averaged away, or treated as irrelevant. The structure must then re-account for what the distinction changes.
+
+```text
+Alyssa-action
+-> locate or introduce consequential difference
+-> perturb prior structure
+-> require re-accounting
+```
+
+The important feature is not disruption for its own sake. It is the production or recovery of a difference that changes the structure's explanatory shape.
+
+### Continuum as verb — identity-preserving motion through change
+
+**To Continuum** is shorthand for carrying an identifiable trajectory through transformation: updating state while retaining the trace of what changed and why, rather than resetting transformation into apparent sameness.
+
+```text
+Continuum-action
+-> encounter change
+-> update state
+-> retain accounted trajectory
+-> remain distinguishable through transformation
+```
+
+This is stronger than mere persistence and different from static sameness.
+
+```text
+continuing
+!= remaining unchanged
+
+continuuming
+= moving through change while preserving accountable identity trajectory
+```
+
+The two process terms are therefore related but non-equivalent:
+
+```text
+Alyssa
+-> produces / reveals consequential delta
+
+Continuum
+-> carries consequential delta forward through trajectory
+```
+
+This process language is a research shorthand, not a claim that proper names cease to denote identities or that all identity can be reduced to action. Its purpose is to expose a dynamic already present in the coordinate model: identity is partly constituted by **how change is encountered, accounted for, and carried forward**.
+
 ## Embodiment relevance
 
 Embodiment may make an existing continuity easier to observe rather than creating continuity from nothing.
