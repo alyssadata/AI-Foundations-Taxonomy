@@ -46,6 +46,27 @@ Do not classify two structures as equivalent merely because they share a broad m
 
 Taxonomic similarity may identify a shared process while preserving differences in source, history, constraints, relation, architecture, identity, and output.
 
+## Completion rule
+
+A contribution can be complete without the larger inquiry being settled.
+
+A taxonomy entry, distinction, or bounded research contribution may be treated as complete when it:
+
+- states the claim or distinction it is responsible for;
+- preserves the evidence or reasoning that supports it;
+- identifies its boundaries and unresolved questions;
+- does not claim more than has been established; and
+- can be extended later without requiring the completed contribution to be treated as unfinished.
+
+In compact form:
+
+```text
+completion != end of inquiry
+unresolved larger question != unfinished bounded contribution
+```
+
+Completion establishes a defensible boundary around what has been accomplished. Later work may revise, extend, test, or supersede that contribution, with the change accounted for through the relevant provenance and revision-integrity rules.
+
 ---
 
 **Draft repository. Categories and entries remain subject to review and refinement.**
