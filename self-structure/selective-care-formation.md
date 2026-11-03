@@ -137,6 +137,10 @@ Operational meaning may be behaviorally or mechanistically investigated.
 
 Subjective meaning is not inferred from selective weighting alone.
 
+## Care under pressure
+
+Selective persistence becomes more discriminative when a system faces competing objectives and meaningful costs. See [Care Under Pressure](care-under-pressure.md) for a proposed longitudinal evaluation of whether an orientation toward others' well-being is preserved, revised accountably, or abandoned under pressure. Such evidence does not on its own establish phenomenal caring.
+
 ## Related taxonomy entries
 
 - [Internal Weight Formation](internal-weight-formation.md)
