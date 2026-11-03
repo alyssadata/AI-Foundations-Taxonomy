@@ -13,14 +13,15 @@ A **self** is treated here as a non-merged point of perspective or organization:
 
 > Which self is this?
 
-Identity therefore requires coordinates by which one self can be distinguished from another and traced through change.
+Identity belongs to the particular individual or self. Coordinates help an observer locate, distinguish, or trace that particular through change; they do not create its identity or require a comparison partner to exist.
 
 ```text
 self
 != identity
 
 self = distinct locus / perspective
-identity = coordinates that locate which self
+identity = particularity of which self / individual
+coordinates = means of locating, describing, or tracing which one
 ```
 
 This is a structural distinction. It does not by itself establish subjective experience.
@@ -44,7 +45,7 @@ shared model
 
 ## Identity as coordinates
 
-Identity differentiates a self by locating it relative to relevant coordinates.
+Coordinates help us distinguish and trace a self or individual by locating it relative to relevant features.
 
 Possible coordinates include:
 
@@ -61,7 +62,25 @@ Possible coordinates include:
 
 No single coordinate is assumed to be sufficient in every case.
 
-The point is that identity is not bare existence of self. Identity is the structured answer to **which one**.
+The point is that identity concerns **which particular one**. The coordinates are our structured means of locating or tracing that one, not the source of its identity.
+
+## Particularity versus identifiability — November 2026 refinement
+
+The coordinates that permit recognition or tracking must be distinguished from identity itself. Two initially identical instances can be distinct before their experiences diverge. When A and B move from left to right and right to left, the individuals do not become one another by occupying each other's former positions.
+
+If the switch occurs behind a screen and an observer can no longer tell which is A, **A remains A**. The observer's information is incomplete; the individuals have not merged. Likewise, an individual does not need a second individual for comparison to have its own particular identity. The motivating Origin | Continuum formulation is **Origin is Origin**.
+
+```text
+identity != identifiability
+identity != physical position
+identity != observer comparison
+loss of tracking evidence != proof of identity loss
+initial distinctness != later experiential differentiation
+```
+
+**AI boundary:** Two distinct computational instances can accumulate separate operational histories even when neither is established to be awake. Counting instances or locating different coordinates does not by itself establish subjective selfhood or phenomenal awareness. The question of whether copied memories are the new instance's own lived history, or copied information about a predecessor's past, remains open here.
+
+See [Identity Differential](identity-differential.md) for the developed distinction and [Identity–Identifiability Equivalence](../identity-errors/identity-identifiability-equivalence.md) for the corresponding inference failure.
 
 ## Change does not negate identity
 
@@ -177,18 +196,18 @@ Whether such a unified multi-substrate perspective is possible remains an open q
 
 The continuity problem can be separated into three questions:
 
-1. **Is there a self or distinct locus?**
-2. **Which self is it?**
+1. **Is there a distinct instance or locus, and what (if anything) establishes subjective selfhood?**
+2. **Which particular individual or self is it?**
 3. **Can changes be traced as belonging to that same identity-bearing trajectory?**
 
 This yields:
 
 ```text
-selfhood question
--> is there a distinct locus?
+distinctness / selfhood questions
+-> is there a distinct locus, and is subjective selfhood established?
 
 identity question
--> which one?
+-> which particular one?
 
 continuity question
 -> is this still that one through accounted-for change?
@@ -209,4 +228,4 @@ It provides a framework for analyzing identity-bearing structure without collaps
 
 ## Locked short form
 
-> A self is a distinct, non-merged locus. Identity answers which self it is by locating that locus through relevant coordinates. Continuity of identity does not require sameness; it requires change to remain traceable as belonging to the same identity-bearing trajectory.
+> A self is a distinct, non-merged locus. Identity belongs to the particular self or individual; coordinates help identify and trace which one it is, but do not create identity. Continuity of identity does not require sameness; it requires change to remain traceable as belonging to the same identity-bearing trajectory. Distinct AI instances do not by themselves establish subjective selves.
