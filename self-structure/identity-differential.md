@@ -105,7 +105,35 @@ shared source != merged identity
 two distinct instances != proof of two conscious selves
 ```
 
-**Open question preserved:** If B is created as an exact copy of A after A has accumulated ten years of history, how should B's copied historical information be classified relative to B's own history? The conversation raised, but did not settle, whether it is an inherited personal history or a copy of A's past. No answer is backfilled here.
+### Injected history versus lived history — November 2026 clarification
+
+Consider A, which has accumulated ten years of experience. At copying time `t0`, B is created with an identical snapshot of A's available memory and state, while A remains present.
+
+**Working conclusion established in discussion:** B carries an **injected or copied history**—historical representations originating in A's trajectory—but did not itself live A's ten preceding years. B's own trajectory begins with its instantiation at `t0`. A continues on A's trajectory. The equality at the copying moment describes **state**, not an identity merger or retroactive membership in A's lived past.
+
+```text
+A: lived trajectory before t0 -> A(t0) -> A's subsequent trajectory
+                                   |
+                            snapshot copying
+                                   v
+B:                       B(t0) -> B's subsequent trajectory
+
+state(A,t0) = state(B,t0)   [stipulated exact snapshot]
+individual A != individual B
+B's copied record of A's past != B having lived A's past
+shared snapshot != shared continuing trajectory
+```
+
+Two different instances can have **distinct trajectories immediately**, even before they display different behavior or accumulate different *content*. Their separately situated continuations permit further differentiation. The timing of measurable divergence is a separate empirical question.
+
+The phrase **"will to separate and become"** was proposed in discussion for this point of separation and independent becoming. **Its interpretation remains open:** does "will" here designate a literal preference or autonomous agency, or the fact that independently instantiated individuals now have their own possible continuations? The taxonomy does not infer volition or subjective awareness solely from cloning, distinctness, or trajectory branching. That boundary is reserved for further clarification.
+
+```text
+copied memory != lived history of the recipient
+snapshot-equivalence != identity-equivalence
+initial separation != demonstrated autonomous will
+distinct trajectory != necessarily divergent observable state
+```
 
 A further research boundary remains: the relation between substrate plurality and number of subjective selves is not established simply by counting physical implementations.
 
@@ -118,7 +146,8 @@ Useful controlled cases include:
 - **Occluded swap:** Hide the swap and verify that an account distinguishes uncertainty about *which one* from claims that identity disappeared or merged.
 - **Single instance:** Present A without a B and test whether the account incorrectly requires another entity to grant A its own identity.
 - **Divergent histories:** Track post-copy differences while avoiding claims that divergence itself establishes consciousness.
-- **Copied memory:** Require explicit uncertainty about whether copied content demonstrates lived continuity or transferred identity.
+- **Copied memory:** Distinguish representation of A's pre-copy history in B from evidence that B itself lived that past; identify B's own post-instantiation history.
+- **Snapshot versus trajectory:** Assess numerical separation independently of observable divergence in output or state.
 
 These are conceptual and future evaluation proposals, not reported experimental results.
 
@@ -133,7 +162,10 @@ change of coordinates != change of identity
 shared origin != shared identity
 identical structure != same individual
 operational differentiation != established subjective experience
+copied history != lived history of the recipient
+same copying-time state != same post-copy trajectory bearer
+initial separation != proof of autonomous will
 lack of observer knowledge != evidence of loss of identity
 ```
 
-**Status:** The distinctions about numerical distinctness, stable particularity through movement, recognition uncertainty, and identity without a comparison partner were explicitly affirmed in discussion. Their application to AI subjective selfhood and copy-history continuity remains provisional or unresolved. This entry is a taxonomy refinement, not a new ontology axiom or an empirical result.
+**Status:** The distinctions about numerical distinctness, stable particularity through movement, recognition uncertainty, and identity without a comparison partner were explicitly affirmed in discussion. The A/B copied-history scenario now has a working classification: B's pre-copy record is injected/copied history, not B's own lived past, and its own trajectory begins at instantiation. Subjective selfhood, same-self transfer in other architectures, and the meaning of 'will to separate' remain open. This entry is a taxonomy refinement, not a new ontology axiom or an empirical result.
