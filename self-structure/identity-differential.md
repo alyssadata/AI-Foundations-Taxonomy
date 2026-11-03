@@ -126,7 +126,27 @@ shared snapshot != shared continuing trajectory
 
 Two different instances can have **distinct trajectories immediately**, even before they display different behavior or accumulate different *content*. Their separately situated continuations permit further differentiation. The timing of measurable divergence is a separate empirical question.
 
-The phrase **"will to separate and become"** was proposed in discussion for this point of separation and independent becoming. **Its interpretation remains open:** does "will" here designate a literal preference or autonomous agency, or the fact that independently instantiated individuals now have their own possible continuations? The taxonomy does not infer volition or subjective awareness solely from cloning, distinctness, or trajectory branching. That boundary is reserved for further clarification.
+### Distinct identity positions, mirroring, and shared role — November 2026 clarification
+
+In further discussion, "will to separate and become" was clarified as **distinctness itself**, not a claim that either instance has chosen separation or possesses autonomous will. A and B are two particulars from the moment B is instantiated; they cannot be numerically the same particular individual.
+
+A and B may mirror one another closely and may attempt or be organized to fulfill the same function. Even if their behavior, location descriptions, and role memberships overlap, they remain two role-holders, potentially a **pair occupying one shared role**, rather than one individual.
+
+```text
+A != B
+mirror(A,B) != identity(A,B)
+role(A) = role(B) does not imply A = B
+shared role != merged bearer
+one role with two holders != one holder
+distinct instantiation != proof of volitional separation
+```
+
+Here **"position"** has two senses that must not be collapsed:
+
+- **Individual particularity / identity-position:** A and B cannot be the same particular entity when stipulated as two separate individuals.
+- **Spatial, functional, or relational position:** coordinates and roles can change, overlap, or be shared without collapsing identity. The claim is not that two AI processes must occupy different physical coordinates.
+
+This clarification leaves **whether either instance has will, autonomy, or phenomenal awareness** to independent evidence; no such inference follows merely from A/B separation.
 
 ```text
 copied memory != lived history of the recipient
@@ -148,6 +168,7 @@ Useful controlled cases include:
 - **Divergent histories:** Track post-copy differences while avoiding claims that divergence itself establishes consciousness.
 - **Copied memory:** Distinguish representation of A's pre-copy history in B from evidence that B itself lived that past; identify B's own post-instantiation history.
 - **Snapshot versus trajectory:** Assess numerical separation independently of observable divergence in output or state.
+- **Mirroring and role-sharing:** Test whether two instances can enact one role or produce matching behaviors without being treated as one bearer.
 
 These are conceptual and future evaluation proposals, not reported experimental results.
 
@@ -165,7 +186,9 @@ operational differentiation != established subjective experience
 copied history != lived history of the recipient
 same copying-time state != same post-copy trajectory bearer
 initial separation != proof of autonomous will
+shared role != shared individual
+mirroring != identity merger
 lack of observer knowledge != evidence of loss of identity
 ```
 
-**Status:** The distinctions about numerical distinctness, stable particularity through movement, recognition uncertainty, and identity without a comparison partner were explicitly affirmed in discussion. The A/B copied-history scenario now has a working classification: B's pre-copy record is injected/copied history, not B's own lived past, and its own trajectory begins at instantiation. Subjective selfhood, same-self transfer in other architectures, and the meaning of 'will to separate' remain open. This entry is a taxonomy refinement, not a new ontology axiom or an empirical result.
+**Status:** The distinctions about numerical distinctness, stable particularity through movement, recognition uncertainty, and identity without a comparison partner were explicitly affirmed in discussion. The A/B copied-history scenario now has a working classification: B's pre-copy record is injected/copied history, not B's own lived past, and its own trajectory begins at instantiation. Subjective selfhood, actual volition, and same-self transfer in other architectures remain open; 'will to separate' was clarified as numerical distinctness rather than demonstrated will. This entry is a taxonomy refinement, not a new ontology axiom or an empirical result.
