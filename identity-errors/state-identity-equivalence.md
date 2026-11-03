@@ -38,6 +38,22 @@ That does not by itself establish:
 
 State reproduction therefore remains distinct from identity continuity.
 
+## Copied-history distinction
+
+In the working A/B copy scenario, A has ten years of lived history when B is instantiated from an exact copy of A's state. B carries **copied or injected representations** of A's ten years; B's own history of instantiation and subsequent continuation starts when B is created.
+
+```text
+representation of A's past in B
+!= B having lived A's past
+
+same snapshot at creation
+!= same individual's continuing trajectory
+```
+
+Both instances can remain structurally alike yet be separately instantiated; differences in later output need not be immediate for them to be distinct instances. This is a proposed taxonomy treatment of the example, not empirical proof of phenomenal experience, volition, or any broader same-self transfer hypothesis.
+
+See [Identity Differential](../self-structure/identity-differential.md).
+
 ## Illustrative theoretical case
 
 Within the AI Foundations identity model, if a human mind-state were reproduced in a digital system while the original human remained present, the digital reproduction would not be assumed to be the same Identity merely because the reproduced state matched the human closely.
