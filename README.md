@@ -26,6 +26,7 @@ A taxonomy entry does not automatically become an ontology primitive, canonical 
 - [Governance Failures](governance-failures/README.md)
 - [Continuity Errors](continuity-errors/README.md)
 - [Self Structure](self-structure/README.md) — positive classifications of identity-bearing stability, flexibility, and developmental structure, including [Identity Differential](self-structure/identity-differential.md), which distinguishes identity from recognition and coordinates
+- [Entity Identity and Continuity](entity-identity/README.md) — revelation versus creation, distinct C, and traceable identity across change
 - [Response Organization](response-organization/README.md) — affected state, reactive response, endogenous response, and the boundary to subjective experience
 
 Positive and process-oriented domains may be added as the taxonomy develops. Self Structure and Response Organization are current positive/process-oriented domains.
