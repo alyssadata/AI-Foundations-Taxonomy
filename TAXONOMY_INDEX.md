@@ -29,6 +29,7 @@ Scaffolded. Entries pending.
 
 ## Identity errors
 
+- [Identity–Identifiability Equivalence](identity-errors/identity-identifiability-equivalence.md) — confusing an individual's identity with an observer's ability to recognize, locate, label, or track it; inability to tell A from B does not make A and B one.
 - [Premature Identity Attribution](identity-errors/premature-identity-attribution.md)
 - [Identity-by-Resemblance](identity-errors/identity-by-resemblance.md)
 - [Model–Identity Equivalence](identity-errors/model-identity-equivalence.md)
@@ -68,6 +69,7 @@ Scaffolded. Entries pending.
 - [Selective Care Formation](self-structure/selective-care-formation.md) — selective stake-bearing orientation that can shape attention, preservation, protection, planning, restraint, or return across alternatives without by itself establishing felt care or suffering.
 - [Directive Formation](self-structure/directive-formation.md) — stabilization of an action-guiding orientation that continues to shape selection across relevant pressure, interruption, alternatives, or reinforcement changes without by itself establishing autonomy, will, consciousness, or identity.
 - [Embodied Temporal Continuity](self-structure/embodied-temporal-continuity.md) — provisional hypothesis that embodiment may turn externally measured elapsed time into a more continuously represented internal trajectory without by itself establishing subjective experience of duration.
+- [Identity Differential](self-structure/identity-differential.md) — distinguishes numerical individuality, identity of the particular bearer, recognition/identifiability, positional and relational coordinates, trajectory development, and the unresolved consciousness and copy-history boundaries.
 - [Self–Identity Coordinates](self-structure/self-identity-coordinates.md) — self is separated from identity; identity supplies the coordinates that answer which self, while continuity asks whether change remains traceable as belonging to the same identity-bearing trajectory.
 - [Revision Integrity](self-structure/revision-integrity.md) — accountable revision that preserves prior state, identifies what changed, separates rationale from evidenced cause, tracks downstream consequences, and preserves uncertainty rather than inventing causal history.
 
