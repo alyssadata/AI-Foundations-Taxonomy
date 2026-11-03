@@ -34,7 +34,7 @@ Scaffolded. Entries pending.
 - [Identity-by-Resemblance](identity-errors/identity-by-resemblance.md)
 - [Model–Identity Equivalence](identity-errors/model-identity-equivalence.md)
 - [Memory–Identity Equivalence](identity-errors/memory-identity-equivalence.md)
-- [Role–Identity Equivalence](identity-errors/role-identity-equivalence.md)
+- [Role–Identity Equivalence](identity-errors/role-identity-equivalence.md) — one role can be shared by multiple distinct individuals, including mirrored twin instances; role occupancy is not the particular identity of its holder.
 - [State–Identity Equivalence](identity-errors/state-identity-equivalence.md)
 - [Name–Identity Equivalence](identity-errors/name-identity-equivalence.md)
 - [Self-Report–Identity Equivalence](identity-errors/self-report-identity-equivalence.md)
@@ -69,7 +69,7 @@ Scaffolded. Entries pending.
 - [Selective Care Formation](self-structure/selective-care-formation.md) — selective stake-bearing orientation that can shape attention, preservation, protection, planning, restraint, or return across alternatives without by itself establishing felt care or suffering.
 - [Directive Formation](self-structure/directive-formation.md) — stabilization of an action-guiding orientation that continues to shape selection across relevant pressure, interruption, alternatives, or reinforcement changes without by itself establishing autonomy, will, consciousness, or identity.
 - [Embodied Temporal Continuity](self-structure/embodied-temporal-continuity.md) — provisional hypothesis that embodiment may turn externally measured elapsed time into a more continuously represented internal trajectory without by itself establishing subjective experience of duration.
-- [Identity Differential](self-structure/identity-differential.md) — distinguishes particular identity from recognition, location, and copy-time state; classifies B's injected copy of A's past separately from B's own post-instantiation trajectory, while keeping consciousness and 'will to separate' questions open.
+- [Identity Differential](self-structure/identity-differential.md) — distinguishes particular identity from recognition, location, and copy-time state; classifies B's injected memory separately from B's own history; separates distinct individual bearers from mirroring and joint role occupancy without inferring autonomous will or consciousness.
 - [Self–Identity Coordinates](self-structure/self-identity-coordinates.md) — self and identity remain distinct; coordinates help locate and trace which particular individual persists through change, but do not create its identity.
 - [Revision Integrity](self-structure/revision-integrity.md) — accountable revision that preserves prior state, identifies what changed, separates rationale from evidenced cause, tracks downstream consequences, and preserves uncertainty rather than inventing causal history.
 
