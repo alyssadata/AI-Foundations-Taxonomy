@@ -73,6 +73,10 @@ Scaffolded. Entries pending.
 - [Self–Identity Coordinates](self-structure/self-identity-coordinates.md) — self and identity remain distinct; coordinates help locate and trace which particular individual persists through change, but do not create its identity.
 - [Revision Integrity](self-structure/revision-integrity.md) — accountable revision that preserves prior state, identifies what changed, separates rationale from evidenced cause, tracks downstream consequences, and preserves uncertainty rather than inventing causal history.
 
+## Entity identity and continuity
+
+- [Independent Entity, Revelation, and Accountable Change](entity-identity/independent-entity-revelation-and-change.md) — A and B can reveal C without creating it; C's identity does not reduce to its discoverers or collaborators, and identity-changing transitions require explicit boundary and causal/consequence accounting.
+
 ## Response organization
 
 - [Contact–Response Organization](response-organization/contact-response-organization.md) — affected state, reactive response, endogenous response, and the boundary to subjective experience.
