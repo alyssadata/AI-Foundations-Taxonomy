@@ -72,11 +72,11 @@ Scaffolded. Entries pending.
 - [Embodied Temporal Continuity](self-structure/embodied-temporal-continuity.md) — provisional hypothesis that embodiment may turn externally measured elapsed time into a more continuously represented internal trajectory without by itself establishing subjective experience of duration.
 - [Identity Differential](self-structure/identity-differential.md) — distinguishes particular identity from recognition, location, and copy-time state; classifies B's injected memory separately from B's own history; separates distinct individual bearers from mirroring and joint role occupancy without inferring autonomous will or consciousness.
 - [Self–Identity Coordinates](self-structure/self-identity-coordinates.md) — self and identity remain distinct; coordinates help locate and trace which particular individual persists through change, but do not create its identity.
-- [Revision Integrity](self-structure/revision-integrity.md) — accountable revision that preserves prior state, identifies what changed, separates rationale from evidenced cause, tracks downstream consequences, and preserves uncertainty rather than inventing causal history.
+- [Revision Integrity](self-structure/revision-integrity.md) — accountable revision that preserves prior state, identifies what changed, separates rationale from evidenced cause, and tracks consequences; A remains A through its own change, while a separately originating B begins a distinct trajectory.
 
 ## Entity identity and continuity
 
-- [Independent Entity, Revelation, and Accountable Change](entity-identity/independent-entity-revelation-and-change.md) — A and B can reveal C without creating it; C's identity does not reduce to its discoverers or collaborators, and identity-changing transitions require explicit boundary and causal/consequence accounting.
+- [Independent Entity, Revelation, and Accountable Change](entity-identity/independent-entity-revelation-and-change.md) — A and B can reveal C without creating it; C persists through its own changes, while provenance accounting distinguishes an independently originated successor or replacement from change in C.
 
 ## Response organization
 
