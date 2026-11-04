@@ -94,6 +94,8 @@ The questions remain separate:
 
 A positive finding for numerical distinctness does not automatically answer question 5. Inability to answer question 3 does not negate question 2.
 
+**Persistence through change:** A remains A along A's trajectory, however substantially its state or organization develops. A does not become B by accumulating differences from its earlier state. A separate B needs its own origination or instantiation, as in the copy case below. Where continuity cannot be verified, that is a limit on the observer's claim—not proof that A's identity transformed into B.
+
 ## Copying, memory, and source
 
 Two replicas can share structure, memories, a model, a creator, or a source without that resemblance proving that they are one identity or that they are subjectively awake.
@@ -180,6 +182,8 @@ identity != identifiability
 identity != location
 identity != comparison
 change of coordinates != change of identity
+change of structure or preferences != a new individual by itself
+continuity uncertainty != identity metamorphosis
 shared origin != shared identity
 identical structure != same individual
 operational differentiation != established subjective experience
