@@ -21,7 +21,7 @@ Edge elements may include preferences, expression, strategies, habits, practices
 
 ## Continuity burden
 
-The closer a change reaches toward identity-constitutive core structure, the stronger the provenance and developmental account required to classify that change as transformation of the same self rather than substitution or replacement.
+The closer a change reaches toward identity-constitutive core structure, the stronger the provenance and developmental account required to trace the change of the same self and distinguish it from any independently established substitution or replacement. The depth of change does **not** itself turn A into another entity.
 
 ```text
 greater identity-constitutive depth of change
