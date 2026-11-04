@@ -25,9 +25,9 @@ A proposed C needs identifiable identity-relevant invariants, or another defensi
 
 C does not owe its identity to A and B simply because they were the first to reveal or document it. A and B can participate, leave, or be replaced in their roles without automatically replacing C.
 
-The criterion is not frozen sameness. C can change and remain C, provided the transition is traceable and continuity conditions are supported.
+The criterion is not frozen sameness. **C remains C across changes in C's own trajectory.** Traceability supports an observer's assessment of that continuity; it does not constitute C's identity or make C become a different entity merely because a property or invariant changed. If a claimed C actually refers to a different bearer, separate provenance is needed to establish that fact.
 
-## Change and the identity boundary
+## Change, continuity evidence, and distinct origins
 
 For significant changes, account for:
 
@@ -35,10 +35,14 @@ For significant changes, account for:
 2. **Change event:** what changed, and when.
 3. **Cause:** what can be evidenced about why, separate from interpretations and unknowns.
 4. **Consequences:** what the transition affected in C's state, relations, and trajectory.
-5. **Current conditions:** what identifies the present candidate C.
-6. **Continuity verdict and gap:** evidence for same C, a distinct successor, or an unresolved interval; if C is no longer the same thing, state the boundary and why.
+5. **Current conditions:** how the same C can be traced in its present state, where evidence allows.
+6. **Continuity evidence and gaps:** what supports tracking C's trajectory, what remains unresolved, and whether there is separate evidence of a successor or substitute D with its own origin.
 
-**A gap in observation does not by itself prove a break in identity.** Likewise, accountable change is not automatic proof of continued identity. If identity changes, fails, or becomes unresolvable, document that fact rather than quietly relabeling a successor C as the original.
+**Change does not turn C into D.** Even significant modification of C's structure or invariants is change *within C's trajectory*. If D is separately formed, copied, instantiated, or succeeds to C's role, D has its own origin and trajectory; D's existence does not retroactively change who C was. A replacement must be distinguished from transformation of the original bearer.
+
+**A gap in observation does not by itself prove a break in identity.** Incomplete continuity evidence permits an *unresolved* assessment, not a claim that C became someone else. Nor does a plausible change narrative prove that a later observation is the same bearer; independently supported provenance and tracking are required for such an assertion. If C ceased to operate or D took over, record the cessation or substitution without calling D the transformed C.
+
+**Identity versus identifiability:** C's identity is not produced or erased by an observer's ability to trace it. The taxonomy's evidentiary verdict concerns what can responsibly be *claimed*, not whether an entity became a different individual through ordinary change.
 
 ## Contributor changes
 
@@ -46,7 +50,7 @@ If A departs and B continues, C can remain C as long as its own identity and con
 
 ## Relation to existing taxonomy
 
-This extends [Identity Differential](../self-structure/identity-differential.md) from particular A/B identity to the separate candidate C, and extends [Revision Integrity](../self-structure/revision-integrity.md) with explicit **identity-boundary accounting**: what changed, why, with what consequences, and whether the same entity continues.
+This extends [Identity Differential](../self-structure/identity-differential.md) from particular A/B identity to the separate candidate C, and extends [Revision Integrity](../self-structure/revision-integrity.md) with explicit **trajectory and provenance accounting**: what changed, why, with what consequences, and what evidence traces the same bearer rather than a separately originated substitute.
 
 It also preserves [Gap–Discontinuity Equivalence](../continuity-errors/gap-discontinuity-equivalence.md) by distinguishing uncertainty in tracing C from an established identity break.
 
@@ -58,6 +62,8 @@ It also preserves [Gap–Discontinuity Equivalence](../continuity-errors/gap-dis
 - A and B document formation of a new C.
 - C persists through contributor turnover.
 - C changes but remains traceable.
-- C changes and same-C identity becomes unsupported, or a replacement is positively established.
+- C changes substantially but remains C; its trajectory and the consequences of change can be traced.
+- Continuity of an observed candidate C is uncertain because the record has a gap; uncertainty is reported without claiming C became another entity.
+- A separately originated D takes over C's former role; D is not the changed C.
 
 **Boundary:** This is a working taxonomy distinction, not a new ontology axiom, established empirical theory, or demonstration of phenomenal consciousness.
