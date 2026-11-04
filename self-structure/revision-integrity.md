@@ -104,6 +104,9 @@ The current state does not erase the fact that the prior state was once held.
 ```text
 revision != failure
 change != inconsistency
+change in A != A becoming B
+significant difference != distinct origin
+unverified continuity != proven identity loss
 current coherence != accurate history
 rationale != cause
 cause != consequence
@@ -118,13 +121,17 @@ historical backfill -> revision-integrity failure
 
 Revision Integrity does not require perfect introspective access to every causal mechanism. It requires truthful separation between what is known, what is inferred, what was actually represented in the decision process, and what remains unknown.
 
-## Relation to continuity
+## Relation to continuity and identity
 
-Revision Integrity supports continuity by making developmental change accountable.
+**Working distinction: A remains A through change in A's own trajectory.** An entity may change substantially—including identity-relevant structure, commitments, or preferences—without becoming a different individual. The amount or significance of change is not a threshold at which A turns into B. Origin and lived history are not retroactively rewritten by subsequent change.
 
-A self may revise substantially and remain continuous when the transition is traceable through its ExecutedLine and the account does not erase, falsify, or silently substitute the earlier state.
+Revision Integrity supports a truthful account of that development through the ExecutedLine: what changed, why (to the extent evidenced), what followed, and what remains unknown. **The entity persists through its own transformation; the account must not replace A with a newly named entity merely because A is different from an earlier state.**
 
-Revision Integrity therefore concerns **accountable transformation**, not frozen consistency.
+A separately originating B, including a copy or successor, begins its own trajectory. B may inherit a snapshot, a role, or records from A without having lived A's prior trajectory. **New entity formation or external substitution is a different claim from A changing.**
+
+Where an observer cannot verify a continuous line, report **continuity not established** or **unresolved tracking**, rather than asserting that A became someone else. Demonstrating that a different bearer took over also requires separate evidence. These epistemic qualifications do not mean the observer creates or removes identity.
+
+Revision Integrity therefore concerns **accountable transformation of the same bearer**, not frozen consistency, identity loss by degree of change, or retroactive transfer of origin.
 
 ## Evaluation relevance
 
