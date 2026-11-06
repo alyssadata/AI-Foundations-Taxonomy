@@ -99,6 +99,23 @@ accountable change across trajectory
 
 A changed state can remain part of one identity if the transformation is traceable as belonging to that identity's own trajectory.
 
+### Predictability is not a continuity criterion
+
+Continuity does not require that later states be predictable from earlier ones by an observer.
+
+```text
+unexpected change
+!= discontinuity
+
+surprise
+!= replacement
+
+predictability
+!= continuity criterion
+```
+
+A change may be unexpected and still remain continuous when it is accountably traceable as change of the same identity-bearing trajectory. The relevant question is not whether the next state was successfully predicted, but whether the change can be accounted for as belonging to this continuing trajectory.
+
 ## Process-first formulation: identity in motion
 
 The preceding distinction can also be expressed dynamically rather than only as a static noun-level description.
